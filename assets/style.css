@@ -1,0 +1,44 @@
+body{
+    background-color: #f0f2f5;
+    padding-top: 12%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#logo{
+    width: 300px;
+}
+h4{
+    padding : 0px 0px 0px 30px;
+}
+h4{
+    font-size: 28px;
+}
+#form{
+    background-color: white;
+    padding: 1em;
+    width: 80%;
+    margin: -30px auto;
+    
+}
+
+#textbottomlogin{
+    padding-top: 8px;
+    text-align: center;
+    font-size: small;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#textbawah{
+    padding-top: 30px;
+    font-size: small;
+    text-align: center;
+}
+#btnsignin{
+    display: grid;
+    place-items: center;
+}
+
+
